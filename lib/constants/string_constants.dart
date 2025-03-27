@@ -1,0 +1,15 @@
+const String USERS = 'Users';
+const String USER_ID = 'UserId';
+const String ID = 'id';
+const String NAME = 'Name';
+const String PASSWORD = 'Password';
+const String ADDRESS = 'Address';
+const String EMAIL = 'Email';
+const String PHONE = 'Phone';
+const String DOB = 'Dob';
+const String AGE = 'Age';
+const String CITY = 'City';
+const String GENDER = 'Gender';
+const String HOBBIES = 'Hobbies';
+const String FAVOURITE = 'Favourite';
+const String IS_LOGIN = 'is_Login';
